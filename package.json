@@ -1,0 +1,22 @@
+{
+  "name": "expense-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.5.2",
+    "commander": "^12.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/json2csv": "^5.0.7"
+  }
+}
