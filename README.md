@@ -50,15 +50,7 @@ npm i -g .
 expense-tracker view
 ```
 
-```
-#output
-id: 1   task: hello earth and world              status: not-done
-id: 2   task: hello Asia                         status: done
-id: 3   task: hello India                        status: in-progress
-
-```
-
 ## Acknowledgments
 
 Inspiration and Solution to.
-* [roadmap.sh/task-tracker](https://roadmap.sh/projects/task-tracker)
+* [roadmap.sh/Expense-tracker](https://roadmap.sh/projects/expense-tracker)
