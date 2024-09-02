@@ -27,6 +27,7 @@ git clone https://github.com/devshDotTech/expense-tracker-cli.git
 ```
 * Go to the cloned folder and run the js file
 ```
+npm i
 tsc
 node dist/index.js <command>
 ```
